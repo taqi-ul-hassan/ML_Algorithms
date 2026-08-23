@@ -1,4 +1,4 @@
-# ML_Algorithms
+# ML Algorithms
 
 A collection of **Machine Learning algorithms implemented from scratch** using Python.
 
