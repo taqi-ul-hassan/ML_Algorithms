@@ -4,7 +4,7 @@ A collection of **Machine Learning algorithms implemented from scratch** using P
 
 The goal of this repository is to understand the mathematics, intuition, and implementation behind common machine-learning algorithms rather than relying entirely on high-level libraries.
 
-## 📚 Algorithms
+## Algorithms
 
 | Algorithm                       
 | K-Nearest Neighbors (KNN)          
